@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.DataModel\bin\Debug\netcoreapp3.1\ContactsWebApp.DataModel.deps.json
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.DataModel\bin\Debug\netcoreapp3.1\ContactsWebApp.DataModel.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.DataModel\bin\Debug\netcoreapp3.1\ContactsWebApp.DataModel.pdb
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.DataModel\obj\Debug\netcoreapp3.1\ContactsWebApp.DataModel.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.DataModel\obj\Debug\netcoreapp3.1\ContactsWebApp.DataModel.AssemblyInfo.cs
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.DataModel\obj\Debug\netcoreapp3.1\ContactsWebApp.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.DataModel\obj\Debug\netcoreapp3.1\ContactsWebApp.DataModel.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.DataModel\obj\Debug\netcoreapp3.1\ContactsWebApp.DataModel.pdb
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.DataModel\obj\Debug\netcoreapp3.1\ContactsWebApp.DataModel.csproj.AssemblyReference.cache

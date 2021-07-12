@@ -1,0 +1,207 @@
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.exe
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.deps.json
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.runtimeconfig.json
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.dll
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.pdb
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.Views.dll
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.Views.pdb
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.AssemblyInfo.cs
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ContactsWebApp.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ContactsWebApp.StaticWebAssets.xml
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\ContactsWebApp.styles.css
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.TagHelpers.input.cache
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.TagHelpers.output.cache
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorCoreGenerate.cache
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.Views.pdb
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.dll
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.pdb
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.genruntimeconfig.cache
+C:\Users\User\Desktop\ContactWebApp\ContactsWebApp\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.csproj.CopyComplete
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.exe
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.deps.json
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.runtimeconfig.json
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.pdb
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.Views.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.Views.pdb
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.AssemblyInfo.cs
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ContactsWebApp.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ContactsWebApp.StaticWebAssets.xml
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\ContactsWebApp.styles.css
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.TagHelpers.input.cache
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.TagHelpers.output.cache
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorCoreGenerate.cache
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.Views.pdb
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.pdb
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.genruntimeconfig.cache
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.csproj.CopyComplete
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.Dal.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.DataModel.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.Dal.pdb
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.DataModel.pdb
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.Bll.dll
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.Bll.pdb
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Edit.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.exe
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.deps.json
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.runtimeconfig.json
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.Views.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.Views.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.Bll.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.Dal.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.DataModel.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.Bll.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.DataModel.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\bin\Debug\netcoreapp3.1\ContactsWebApp.Dal.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.AssemblyInfo.cs
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ContactsWebApp.StaticWebAssets.Manifest.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\staticwebassets\ContactsWebApp.StaticWebAssets.xml
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\ContactsWebApp.styles.css
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.TagHelpers.input.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.TagHelpers.output.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorCoreGenerate.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Edit.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Contacts.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.Views.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.csproj.CopyComplete
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp\obj\Debug\netcoreapp3.1\ContactsWebApp.genruntimeconfig.cache
