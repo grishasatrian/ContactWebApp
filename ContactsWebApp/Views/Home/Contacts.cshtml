@@ -1,0 +1,101 @@
+﻿@{
+    ViewData["Title"] = "Contacts";
+}
+@model HomeViewModel;
+
+@using (Html.BeginForm("Contacts", "Home", FormMethod.Post))
+{
+    @Html.HiddenFor(x => x.Id)
+    @Html.HiddenFor(x => x.DateTime)
+    <div class=" shadow-lg card">
+        <h5 class="card-header">Contacts information</h5>
+        <div class=" card-body border-info">
+            <h5 class="card-title">Full Name</h5>
+            @Html.TextBoxFor(m => m.FullName, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.FullName)
+            <h5 class="card-title">Phone Number</h5>
+            @Html.TextBoxFor(m => m.PhoneNumber, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.PhoneNumber)
+            <h5 class="card-title">Email</h5>
+            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Email)
+            <h5 class="card-title">Address</h5>
+            @Html.TextBoxFor(m => m.Address, new { @class = "form-control" })
+            @Html.ValidationMessageFor(m => m.Address)
+            <h5 class="card-title">Where to save?</h5>
+            @Html.RadioButtonFor(m => m.IsSqlSelected, true) SQL
+            @Html.RadioButtonFor(m => m.IsSqlSelected, false) JSON
+            <br />
+            <br />
+            <div class="col">
+                <div class="row">
+                    <button type="submit" formaction="../Home/add" class="btn btn-outline-success" style="margin:5px;">Add</button>
+                    <button type="submit" class="btn btn-outline-info" style="margin:5px;">Search</button>
+                    <button type="button" onclick="emptyInput()" class="btn btn-outline-dark" style="margin:5px;">Clear</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript" language="javascript">
+        function emptyInput() {
+            document.getElementById('FullName').value = '';
+            document.getElementById('Email').value = '';
+            document.getElementById('PhoneNumber').value = '';
+            document.getElementById('Address').value = '';
+        }
+        function removeAction(id) {
+            if (confirm("Are You sure you want to delete?")) {
+                let form = document.getElementsByTagName('form')[0];
+                form.setAttribute('action', '/Contact/Remove?contactId=' + id);
+                form.submit();
+            }
+        }
+        function editAction(id) {
+            var radioValue = document.querySelector('input[name="IsSqlSelected"]:checked').value;
+            this.location = "/Contact/Edit?contactId=" + id + "&IsSqlSelected=" + radioValue;
+            return false;
+        }
+    </script>
+}
+<br />
+<hr />
+<br />
+<div id="contactTable">
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Full Name</th>
+                <th scope="col">Phone Number</th>
+                <th scope="col">Email</th>
+                <th scope="col">Address</th>
+                <th scope="col">Remove / Edit</th>
+            </tr>
+        </thead>
+        <tbody>
+            @{
+                int index = 0;
+                foreach (var item in Model.SearchResult)
+                {
+                    index++;
+                    <tr>
+                        <th scope="row">@index</th>
+                        <td>@item.FullName</td>
+                        <td>@item.PhoneNumber</td>
+                        <td>@item.Email</td>
+                        <td>@item.Address</td>
+                        <td>
+                            <a class="btn btn-outline-danger" href="#" onclick="return removeAction(@item.ContactId)">Remove</a>
+                            <a class="btn btn-outline-warning" href="#" onclick="return editAction(@item.ContactId)">Edit</a>
+                        </td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>
+
+
+
+
+
