@@ -26,22 +26,25 @@ namespace ContactsWebApp.Dal.Manager
                 _ContactsList = new List<ContactDataModel>();
             }
         }
-
+       
         private void SaveDataJSON()
         {
-            if (_ContactsList == null || _ContactsList.Count == 0)
+            lock (this)
             {
-                if(System.IO.File.Exists(FileName))
-                System.IO.File.Delete(FileName);
-            }
-            else
-            {
-                if (System.IO.File.Exists(FileName))
-                    System.IO.File.Delete(FileName);
-                DataContractJsonSerializer formatter = new DataContractJsonSerializer(typeof(List<ContactDataModel>));
-                using (FileStream fs = new FileStream(FileName, FileMode.OpenOrCreate))
+                if (_ContactsList == null || _ContactsList.Count == 0)
                 {
-                    formatter.WriteObject(fs, _ContactsList);
+                    if(System.IO.File.Exists(FileName))
+                    System.IO.File.Delete(FileName);
+                }
+                else
+                {
+                    if (System.IO.File.Exists(FileName))
+                        System.IO.File.Delete(FileName);
+                    DataContractJsonSerializer formatter = new DataContractJsonSerializer(typeof(List<ContactDataModel>));
+                    using (FileStream fs = new FileStream(FileName, FileMode.OpenOrCreate))
+                    {
+                        formatter.WriteObject(fs, _ContactsList);
+                    }
                 }
             }
         }

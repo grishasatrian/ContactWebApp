@@ -20,7 +20,6 @@ namespace ContactsWebApp.Controllers
             _logger = logger;
         }
         
-
         [HttpGet]
         public IActionResult Edit(int contactId, bool IsSqlSelected=true)
         {

@@ -52,7 +52,6 @@ namespace ContactsWebApp.Controllers
             }
             model.SearchResult = manager.GetContacts(null, null, null, null);
             return View(model);
-            
         }
 
         [HttpPost]
