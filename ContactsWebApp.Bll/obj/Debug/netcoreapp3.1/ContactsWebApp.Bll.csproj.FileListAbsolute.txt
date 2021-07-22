@@ -12,3 +12,17 @@ C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.Bll\obj\Debug
 C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.Bll\obj\Debug\netcoreapp3.1\ContactsWebApp.Bll.dll
 C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.Bll\obj\Debug\netcoreapp3.1\ContactsWebApp.Bll.pdb
 C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.Bll\obj\Debug\netcoreapp3.1\ContactsWebApp.Bll.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Bll\bin\Debug\netcoreapp3.1\ContactsWebApp.Bll.deps.json
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Bll\bin\Debug\netcoreapp3.1\ContactsWebApp.Bll.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Bll\bin\Debug\netcoreapp3.1\ContactsWebApp.Bll.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Bll\bin\Debug\netcoreapp3.1\ContactsWebApp.Dal.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Bll\bin\Debug\netcoreapp3.1\ContactsWebApp.DataModel.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Bll\bin\Debug\netcoreapp3.1\ContactsWebApp.Dal.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Bll\bin\Debug\netcoreapp3.1\ContactsWebApp.DataModel.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Bll\obj\Debug\netcoreapp3.1\ContactsWebApp.Bll.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Bll\obj\Debug\netcoreapp3.1\ContactsWebApp.Bll.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Bll\obj\Debug\netcoreapp3.1\ContactsWebApp.Bll.AssemblyInfo.cs
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Bll\obj\Debug\netcoreapp3.1\ContactsWebApp.Bll.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Bll\obj\Debug\netcoreapp3.1\ContactsWebApp.Bll.csproj.CopyComplete
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Bll\obj\Debug\netcoreapp3.1\ContactsWebApp.Bll.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Bll\obj\Debug\netcoreapp3.1\ContactsWebApp.Bll.pdb

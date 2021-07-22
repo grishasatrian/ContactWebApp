@@ -25,3 +25,18 @@ C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.Dal\bin\Debug
 C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.Dal\bin\Debug\netcoreapp3.1\ContactsWebApp.DataModel.pdb
 C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.Dal\obj\Debug\netcoreapp3.1\ContactsWebApp.Dal.csproj.CopyComplete
 C:\Users\User\Desktop\ContactWebApp\business logics\ContactsWebApp.Dal\obj\Debug\netcoreapp3.1\ContactsWebApp.Dal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\bin\Debug\netcoreapp3.1\ContactsWebApp.Dal.deps.json
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\bin\Debug\netcoreapp3.1\ContactsWebApp.Dal.runtimeconfig.json
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\bin\Debug\netcoreapp3.1\ContactsWebApp.Dal.runtimeconfig.dev.json
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\bin\Debug\netcoreapp3.1\ContactsWebApp.Dal.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\bin\Debug\netcoreapp3.1\ContactsWebApp.Dal.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\bin\Debug\netcoreapp3.1\ContactsWebApp.DataModel.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\bin\Debug\netcoreapp3.1\ContactsWebApp.DataModel.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\obj\Debug\netcoreapp3.1\ContactsWebApp.Dal.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\obj\Debug\netcoreapp3.1\ContactsWebApp.Dal.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\obj\Debug\netcoreapp3.1\ContactsWebApp.Dal.AssemblyInfo.cs
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\obj\Debug\netcoreapp3.1\ContactsWebApp.Dal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\obj\Debug\netcoreapp3.1\ContactsWebApp.Dal.csproj.CopyComplete
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\obj\Debug\netcoreapp3.1\ContactsWebApp.Dal.dll
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\obj\Debug\netcoreapp3.1\ContactsWebApp.Dal.pdb
+C:\Users\User\Desktop\ContactWebApp\Contact Web App\ContactsWebApp.Dal\obj\Debug\netcoreapp3.1\ContactsWebApp.Dal.genruntimeconfig.cache
